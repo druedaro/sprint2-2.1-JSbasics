@@ -12,4 +12,7 @@ Bloc1_6: Array loops
 Bloc1_7: Promises & Async/Await
 
 ## **🛠️ Ejecución**
-✔️ Paso 1: Clona el repositorio en local ✔️ Paso 2: Abre el archivo index.html y descomenta el bloque o bloques que quieras ejecutar ✔️ Paso 3: Ejecuta el archivo HTML en tu navegador web ✔️ Paso 4: Observa los resultados mediante la consola para verificar la corrección de los ejercicios
+* ✔️ Paso 1: Clona el repositorio en local
+* ✔️ Paso 2: Abre el archivo index.html y descomenta el bloque o bloques que quieras ejecutar
+* ✔️ Paso 3: Ejecuta el archivo HTML en tu navegador web
+* ✔️ Paso 4: Observa los resultados mediante la consola para verificar la corrección de los ejercicios
