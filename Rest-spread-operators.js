@@ -15,9 +15,9 @@
         // Exercici 2
         // Operador Rest en Funcions: Crea una funció 'suma' que utilitzi l'operador rest per a acceptar un nombre indeterminat d'arguments i retornar la seva suma.
         function suma (...numbers) {
-        const result = 0;
+        let result = 0;
 
-        for (const i = 0; i < numbers.length; i++) {
+        for (let i = 0; i < numbers.length; i++) {
             result += numbers[i];
         }
 

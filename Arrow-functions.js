@@ -35,7 +35,7 @@
         const Numbers = [6, 8, 3, 2, 7, 9]
 
         const printNumbers = arrNumbers => {
-            for (const i = 0; i < arrNumbers.length; i++) {
+            for (let i = 0; i < arrNumbers.length; i++) {
                 console.log(arrNumbers[i]);
             }
         }

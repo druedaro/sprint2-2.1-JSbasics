@@ -46,7 +46,7 @@
         const Numbers = [99, 72, 34, 55, 9]
 
         function parOImpar (arrNumbers){
-            for (const i=0; i < arrNumbers.length; i++) {
+            for (let i=0; i < arrNumbers.length; i++) {
                 (arrNumbers[i] % 2 == 0) ? console.log(`${arrNumbers[i]} és parell`) : console.log(`${arrNumbers[i]} és imparell`);;
             }
         }

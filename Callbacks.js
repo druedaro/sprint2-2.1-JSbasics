@@ -27,7 +27,7 @@
         const names = ["David", "Sara", "Alex", "Anna"]
 
         function processarElements(array, callback) {
-        for (const i = 0; i < array.length; i++) {
+        for (let i = 0; i < array.length; i++) {
             callback(array[i]);
         }
         }

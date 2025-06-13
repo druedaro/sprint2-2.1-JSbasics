@@ -1,6 +1,8 @@
 # S1.2. Ejercicios básicos en JavaScript
 ## **📄 Descripción**
-Actividad 1 del Sprint 2 del curso de Angular de IT Academy. Es la resolución de algunos ejercicios básicos realizados mediante JavaScript. Cada fichero .js es un bloque de ejercicios sobre un tema.
+Actividad 1 del Sprint 2 del curso de especialización en front-end de IT Academy. Esta actividad consiste en la resolución de diversos ejercicios básicos utilizando JavaScript.
+
+Cada archivo .js contiene un bloque de ejercicios centrado en un tema específico del lenguaje.
 
 ## **✨ Contenido**
 * Bloc1_1: Arrow functions
@@ -12,8 +14,9 @@ Actividad 1 del Sprint 2 del curso de Angular de IT Academy. Es la resolución d
 * Bloc1_7: Promises & Async/Await
 
 
-## **🛠️ Ejecución**
-* ✔️ Paso 1: Clona el repositorio en local
-* ✔️ Paso 2: Abre el archivo index.html y descomenta el bloque o bloques que quieras ejecutar
-* ✔️ Paso 3: Ejecuta el archivo HTML en tu navegador web
-* ✔️ Paso 4: Observa los resultados mediante la consola para verificar la corrección de los ejercicios
+## **✅ Pasos para ejecutar los ejercicios**
+* ✔️ Clona el repositorio en local
+* ✔️ Abre el archivo index.html con tu editor de código.
+* ✔️ Descomenta el bloque o los bloques de código que quieras probar.
+* ✔️ Abre el archivo index.html en tu navegador web.
+* ✔️ Abre la consola del navegador (usualmente con F12 o Ctrl+Shift+I) para ver los resultados y comprobar que los ejercicios funcionan correctamente.
