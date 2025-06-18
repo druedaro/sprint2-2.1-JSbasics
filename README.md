@@ -16,7 +16,14 @@ Cada archivo .js contiene un bloque de ejercicios centrado en un tema específic
 
 ## **✅ Pasos para ejecutar los ejercicios**
 * ✔️ Clona el repositorio en local
-* ✔️ Abre el archivo index.html con tu editor de código.
-* ✔️ Descomenta el bloque o los bloques de código que quieras probar.
 * ✔️ Abre el archivo index.html en tu navegador web.
+* ✔️ Haz click en los distintos temas mostrados en el índice. Estos te llevarán directamente a los ejercicios.
 * ✔️ Abre la consola del navegador (usualmente con F12 o Ctrl+Shift+I) para ver los resultados y comprobar que los ejercicios funcionan correctamente.
+
+## 🚀 Cómo empezar
+Para explorar cada versión del proyecto, necesitas clonar el repositorio y cambiar a cada rama individualmente.
+
+1. Clona el repositiorio:
+```
+git clone https://github.com/druedaro/sprint2-2.1-JSbasics.git
+```
